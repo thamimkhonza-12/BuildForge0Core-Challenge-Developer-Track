@@ -9,6 +9,9 @@ A compact full-stack “BuildForge mini” clone focused on authentication, role
 🌐 Render Deployment:  
 https://buildforge0core-challenge-developer-track.onrender.com/
 
+🎥 Loom Walkthrough:  
+https://www.loom.com/share/ae67e57d937a4e349a2900478f08aa90
+
 ---
 
 # 📂 Project Structure
